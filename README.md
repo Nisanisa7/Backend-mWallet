@@ -5,7 +5,7 @@
     <img src="https://res.cloudinary.com/dnv-images/image/upload/v1631717683/Zwallet/ewallet_1_tzfymc.svg" alt="Logo" width="180" height="180">
   </a>
 
-  <h3 align="center">RESTful API for Zwallet</h3>
+  <h3 align="center">Backend Application for Zwallet</h3>
 
   <p align="center">
     Back-end application or server in charge  of supplying  <br/> Zwallet web application data needs through Rest API technology.<br/>
