@@ -110,8 +110,8 @@ npm run dev
     * [Zwallet API Documentation](https://documenter.getpostman.com/view/13709692/Tzz4RfES#acbbeee4-4be5-4a99-8185-24f2c3ea10c6)
 
 ### Related Project
-* [`Frontend-Zwallet`](https://github.com/dwinovic/zwallet)
-* [`Backend-Zwallet`](https://github.com/dwinovic/Backend-mWallet)
+* [`Frontend-Zwallet`](https://github.com/Nisanisa7/zwallet)
+* [`Backend-Zwallet`](https://github.com/Nisanisa7/Backend-mWallet)
 
 ## Zwallet API Documentation
 
